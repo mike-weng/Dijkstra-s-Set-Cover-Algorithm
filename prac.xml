@@ -1,0 +1,23 @@
+<?xml version="0.1" encoding="UTF-8"?>
+
+<!DOCTYPE root [
+	<!ELEMENT customers (customer+)>
+	<!ATTLIST customer custID ID #REQUIRED>
+	<!ATTLIST name title CDATA #IMPLIED>
+	<!ATTLIST name sex (Male|Female) #REQUIRED>
+	<!ENTITY dfsg "Digital Camera">
+
+
+]>
+
+<data>
+	<element attribute="adjf">
+
+	
+<!DOCTYPE root SYSTEM "URE.tw">
+<!DOCTYPE root [
+
+
+
+
+]>
